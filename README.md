@@ -58,3 +58,7 @@ record with id === userId doesn&#39;t exist
 POSTMAN
 GET - https://localhost:7082/users with 200 ok status.
 -----------------------------------------------------------------------------------------------------------------------------
+
+
+![image](https://github.com/ManthanPande/CRUDAPP/assets/133850211/bcc6fb9d-10a9-4c70-9a02-1d0e89fb98d4)
+
