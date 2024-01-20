@@ -53,3 +53,8 @@ b. Server should answer with status code 400 and corresponding message if
 userId is invalid (not uuid)
 c. Server should answer with status code 404 and corresponding message if
 record with id === userId doesn&#39;t exist
+-----------------------------------------------------------------------------------------------------------------------------
+
+POSTMAN
+GET - https://localhost:7082/users with 200 ok status.
+-----------------------------------------------------------------------------------------------------------------------------
